@@ -25,12 +25,6 @@
 with reservations. 
 
 
-
-#### Microservice for checking in passengers
-
-https://github.com/deepanshululla/flight-checkin
-
-
 #### Database Model
 
 There are 6 tables
